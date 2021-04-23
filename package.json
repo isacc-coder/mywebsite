@@ -1,0 +1,16 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepages":"https://isacc-coder.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
